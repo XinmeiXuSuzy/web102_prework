@@ -1,6 +1,6 @@
 # WEB102 Prework - *FundaGame*
 
-Submitted by: **Suzy Xu**
+Submitted by: **Xinmei (Suzy) Xu**
 
 **FundaGame** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
